@@ -54,6 +54,8 @@ function likeCallback(e) {
 // Ignore after this point. Used only for demo purposes
 //------------------------------------------------------------------------------
 
+//done 
+
 function mimicServerCall() {
   return new Promise(function(resolve, reject) {
     setTimeout(function() {
